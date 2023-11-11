@@ -1,0 +1,286 @@
+
+body {
+  background-color: #2a2829;
+  color: white;
+}
+
+
+#header {
+  background: #000000; 
+  clear: both;
+  height: 75px;
+
+  
+ 
+  
+#logo {
+  width: 150px;
+  height: 75px;
+  float:left;
+  margin:0;
+}
+
+#active {
+  color: white;
+}
+#current {
+  color: white;
+}
+
+
+
+}
+  #navlist {
+    float: right;
+    
+    
+    li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+   
+      a:link{
+        line-height: 75px;
+        height: 75px;
+      
+      }
+    }
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ceo-image {
+   
+    float: left;
+    border-radius: 30px;
+    border: 2px;
+    padding: 20px;
+
+
+  }
+  
+  .ceo-text {
+    font-size: 22.5px;
+    padding-left: 20px;
+    padding-top: 2%;
+    float: left;
+    
+  }
+  
+  .about-t1 {
+      font-size: 25px;
+  }
+
+  .we-are-t1 {
+      font-size: 21.5px;
+
+  }
+
+
+  .container-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .img-one {
+    float: left;
+    border-radius: 30px;
+    border: 2px;
+    padding: 20px;
+    
+  }
+  
+  .text-one{
+    font-size: 22.5px;
+    padding-left: 20px;
+    padding-top: 2%;
+    float: left;
+}
+
+.container-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-two {
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+  
+}
+
+.text-two{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+.container-three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-three {
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+  width: 100%;
+  height: auto;
+ 
+  
+}
+
+.text-three{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+
+.container-four {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-four {
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+ 
+ 
+  
+}
+
+.text-four{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+
+.container-five {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-five {
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+ 
+ 
+  
+}
+
+.text-five{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+.container-six {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-six{
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+ 
+ 
+  
+}
+
+.text-six{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+
+.container-seven {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-seven{
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+ 
+ 
+  
+}
+
+.text-seven{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+.container-eight {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img-eight{
+  float: left;
+  border-radius: 30px;
+  border: 2px;
+  padding: 20px;
+ 
+ 
+  
+}
+
+.text-eight{
+  font-size: 22.5px;
+  padding-left: 20px;
+  padding-top: 2%;
+  float: left;
+}
+
+.footer{
+  font-size: 15px;
+  position: fixed;
+  left: 0%;
+  bottom: 0%;
+  width: 100%;
+  background-color: #000000;
+  color: #e0012c;
+  padding: 0.5rem;
+  text-align: center;
+}
